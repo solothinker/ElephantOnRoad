@@ -16,6 +16,8 @@ ElephantOnRoad is a computer vision project that aims to prevent road accidents 
 - Real-time detection of elephants on the road using the YOLOv5 algorithm.
 - Early warning system to alert drivers when elephants are present.
 - Potential to adjust train speeds when elephants are crossing rail lines.
+  
+![ElephantOnRoad Demo](result/eor.gif)
 
 <a name="usage"></a>
 ## Usage
